@@ -26,6 +26,7 @@ gitGraph
     checkout develop
     commit id: "2018-06-27" tag: "2.5.0"
     branch support/2.5
+    checkout develop
     commit id: "2019-01-09" tag: "2.6.0"
     branch support/2.6
     commit id: "2019-03-28" tag: "2.6.1"
